@@ -1,0 +1,7 @@
+1 {"userId":"1","userName":"Sophie","reputation":1000}
+2 {"userId":"2","userName":"Joe","reputation":2000}
+3 {"userId":"3","userName":"May","reputation":3000}
+4 {"userId":"4","userName":"Mark","reputation":4000}
+5 {"userId":"5","userName":"Tina","reputation":5000}
+6 {"userId":"6","userName":"Ella","reputation":6000}
+7 {"userId":"7","userName":"Emy","reputation":7000}

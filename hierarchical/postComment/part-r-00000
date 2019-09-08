@@ -1,0 +1,8 @@
+{"id":"1","title":"今天是星期一","type":"P","comemnt":[{"postId":"1","type":"C","content":"这是星期一的评论"},{"postId":"1","type":"C","content":"这是星期一的评论"}],"parentId":""}
+{"id":"2","title":"今天是星期二","type":"P","comemnt":[{"postId":"2","type":"C","content":"这是星期二的评论"},{"postId":"2","type":"C","content":"这是星期二的评论"}],"parentId":""}
+{"id":"3","title":"今天是星期三","type":"P","comemnt":[{"postId":"3","type":"C","content":"这是星期三的评论"},{"postId":"3","type":"C","content":"这是星期三的评论"}],"parentId":""}
+{"id":"4","title":"今天是星期四","type":"P","comemnt":[{"postId":"4","type":"C","content":"这是星期四的评论"},{"postId":"4","type":"C","content":"这是星期四的评论"}],"parentId":""}
+{"id":"5","title":"今天是星期五","type":"P","comemnt":[{"postId":"5","type":"C","content":"这是星期五的评论"},{"postId":"5","type":"C","content":"这是星期五的评论"}],"parentId":"1"}
+{"id":"6","title":"今天是星期六","type":"P","comemnt":[{"postId":"6","type":"C","content":"这是星期六的评论"},{"postId":"6","type":"C","content":"这是星期六的评论"}],"parentId":"2"}
+{"id":"7","title":"今天是星期天","type":"P","comemnt":[{"postId":"7","type":"C","content":"这是星期天的评论"},{"postId":"7","type":"C","content":"这是星期天的评论"}],"parentId":"3"}
+{"id":"8","title":"今天是星期8","type":"P","comemnt":[],"parentId":"4"}

@@ -1,0 +1,12 @@
+{"userId":"liufeifei01","reputation":1000}
+{"userId":"liufeifei02","reputation":2000}
+{"userId":"liufeifei03","reputation":3000}
+{"userId":"liufeifei04","reputation":4000}
+{"userId":"liufeifei05","reputation":5000}
+{"userId":"liufeifei06","reputation":61000}
+{"userId":"liufeifei01","reputation":12000}
+{"userId":"liufeifei02","reputation":23000}
+{"userId":"liufeifei03","reputation":33000}
+{"userId":"liufeifei04","reputation":44000}
+{"userId":"liufeifei05","reputation":55000}
+{"userId":"liufeifei06","reputation":66000}

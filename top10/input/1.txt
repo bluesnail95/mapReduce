@@ -1,0 +1,15 @@
+{"userId":"liufiefei1","reputation":100}
+{"userId":"liufiefei2","reputation":200}
+{"userId":"liufiefei3","reputation":300}
+{"userId":"liufiefei4","reputation":400}
+{"userId":"liufiefei5","reputation":500}
+{"userId":"liufiefei6","reputation":600}
+{"userId":"liufiefei7","reputation":700}
+{"userId":"liufiefei8","reputation":800}
+{"userId":"liufiefei9","reputation":900}
+{"userId":"liufiefei10","reputation":200}
+{"userId":"liufiefei11","reputation":100}
+{"userId":"liufiefei12","reputation":1200}
+{"userId":"liufiefei13","reputation":1300}
+{"userId":"liufiefei14","reputation":1400}
+{"userId":"liufiefei15","reputation":1500}

@@ -1,0 +1,6 @@
+{"userId":"liufeifei01","reputation":100}
+{"userId":"liufeifei02","reputation":200}
+{"userId":"liufeifei03","reputation":300}
+{"userId":"liufeifei04","reputation":400}
+{"userId":"liufeifei05","reputation":500}
+{"userId":"liufeifei06","reputation":600}
